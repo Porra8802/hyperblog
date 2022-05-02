@@ -4,4 +4,10 @@ Tengo 34 años
 
 Vivo en Francia
 
+<<<<<<< HEAD
 Estoy Casado con Laura Izquierdo y Luna Emilia
+=======
+Estoy Casado con Laura Izquierdo y Luna Emilia
+
+Me encuentro en busqueda de Carro
+>>>>>>> cabecera
